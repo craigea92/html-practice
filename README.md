@@ -16,7 +16,7 @@ As my career progresses, I plan to expand this website to encompass additional d
 Try It Here: https://craigea92.github.io/html-practice/
 
 ```
-git clone https://github.com/craigea92/html-practice
+git clone https://github.com/craigea92/html-practice.git
 open index.html
 ```
 ## Screenshot
