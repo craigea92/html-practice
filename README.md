@@ -1,4 +1,4 @@
-# html-practice
+# Html Practice
 
 ## Project Description
 For this project, I designed and developed a website to present my professional profile, leveraging fundamental HTML and CSS. I opted for this minimalist approach to facilitate deployment on Github's native hosting service.
