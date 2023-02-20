@@ -3,7 +3,7 @@
 ## Project Description
 For this project, I designed and developed a website to present my professional profile, leveraging fundamental HTML and CSS. I opted for this minimalist approach to facilitate deployment on Github's native hosting service.
 
-Throughout the project, my major hurdles involved grappling with CSS and image placement.
+Throughout the project, my major hurdles involved grappling with CSS and image placement. I overcame these hurdles through reading the documentation and applying a methodical approach.
 
 As my career progresses, I plan to expand this website to encompass additional details about my experience and accomplishments, as well as links to my other completed projects.
 
