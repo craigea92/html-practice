@@ -20,3 +20,6 @@ open index.html
 ```
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/82875984/218523766-d74babcd-e71f-43e8-abb7-e528df3bd653.png)
+
+## What is HyperText Markup Language (HTML)?
+HTML is the standard markup language for documents designed to be displayed in a web browser. It is often assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript.
